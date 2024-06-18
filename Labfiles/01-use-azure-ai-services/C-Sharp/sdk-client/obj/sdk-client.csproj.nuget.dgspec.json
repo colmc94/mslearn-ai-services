@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj": {}
+    "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj": {
+    "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+        "projectUniqueName": "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
         "projectName": "sdk-client",
-        "projectPath": "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+        "projectPath": "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
         "packagesPath": "C:\\Users\\Colm Curtis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\obj\\",
+        "outputPath": "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Colm Curtis\\AppData\\Roaming\\NuGet\\NuGet.Config"

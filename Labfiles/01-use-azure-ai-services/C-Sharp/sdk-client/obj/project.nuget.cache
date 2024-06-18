@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hu9RRf7LKqlyMsMTmHHW2SVAZFCg6J/nM3AfMTYx4Y3LDNk584rYE8L00DMzFnPcBwdt8MadMdbwB0khIjb19Q==",
+  "dgSpecHash": "mAum0bRCA1dhuF7JjKVx5qeDpt4py4TsomOfIPvuHr3IBEOLyASxRG4PVuv/2gnMrd9ch9fNKXQ7nxeuaa8PgA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
+  "projectFilePath": "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\sdk-client\\sdk-client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
@@ -21,10 +21,10 @@
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512",
+    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

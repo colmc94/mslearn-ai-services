@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "002nrbbAknZwijOuTF8T8+/X52hSJYgqZ8MDhbQZ7WfRS/3m7vESWLiEQeJ6ZXECYLSJBMbgXw3HRk5xJ7aTCA==",
+  "dgSpecHash": "t8ts/nW024Ga7g8a897pDLuGXuu1RIq3JWKkmwI9jq6CUGwpMwYUtEk1vUKrwzRM6bR7PsFFQbYz0nWmME8OPg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\rest-client\\rest_client.csproj",
+  "projectFilePath": "C:\\Users\\Colm Curtis\\GIT\\Azure\\ai102\\cloudcomputing2\\mslearn-ai-services\\Labfiles\\01-use-azure-ai-services\\C-Sharp\\rest-client\\rest_client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Colm Curtis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
